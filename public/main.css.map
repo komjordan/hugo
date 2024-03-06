@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/root/themes/hello-friend-ng/exampleSite",
+	"sourceRoot": "/home/user/Music/themes/hello-friend-ng/exampleSite",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
